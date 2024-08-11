@@ -1,3 +1,3 @@
 # simple-mvp-timer
 Simple MVP Timer for Ragnarok Online
-![screenshot]([image.png](https://github.com/7000ghz/simple-mvp-timer/blob/main/Screenshot_231.png))
+![screenshot](https://raw.githubusercontent.com/7000ghz/simple-mvp-timer/main/Screenshot_231.png)
